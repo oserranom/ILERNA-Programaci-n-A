@@ -1,2 +1,2 @@
-# ILERNA-Programaci-n-A
+# ILERNA-Programacion-A
 Primeras aplicaciones de consola creadas
