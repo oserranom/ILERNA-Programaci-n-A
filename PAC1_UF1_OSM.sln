@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32901.82
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PAC1_UF1_OSM", "PAC1_UF1_OSM\PAC1_UF1_OSM.csproj", "{E65C90BC-5467-4C08-A2F9-C07D99CC4D2A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E65C90BC-5467-4C08-A2F9-C07D99CC4D2A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E65C90BC-5467-4C08-A2F9-C07D99CC4D2A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E65C90BC-5467-4C08-A2F9-C07D99CC4D2A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E65C90BC-5467-4C08-A2F9-C07D99CC4D2A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {106DA6A4-7EC8-4DCE-97E8-4C1CCBCA112A}
+	EndGlobalSection
+EndGlobal
